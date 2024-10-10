@@ -10,3 +10,14 @@ This is an e-commerce app. It has features like adding, removing, and checking o
 - Search products
 - Lazy loading of pages
 - Responsive design
+
+## Installation
+    ```
+    pnpm install
+    ```
+
+    ```
+    pnpm run dev
+    ```
+## Github Link
+[https://github.com/Lunar-spec/ShoppyGlobe.git](https://github.com/Lunar-spec/ShoppyGlobe.git)
